@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hborgesuk@gmail.com
+	name = hugo borges
